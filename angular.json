@@ -32,12 +32,10 @@
               }
             ],
             "styles": [
-              //import bootsrap sass files
               "node_modules/bootstrap/scss/bootstrap.scss",
               "src/styles.scss"
             ],
             "scripts": [
-              //import bootsrap bundle js file
               "node_modules/bootstrap/dist/js/bootstrap.bundle.js"
             ]
           },

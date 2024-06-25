@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: inconsolata;
+  src: url(../public/font/Inconsolata/Inconsolata-VariableFont_wdth\,wght.ttf);
+}
+body{
+  background-color: black;
+  color: white;
+  font-family: inconsolata;
+}
