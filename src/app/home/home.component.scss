@@ -1,6 +1,20 @@
 #home-image{
-  height: 400px;
+  height: 480px;
   background-attachment: fixed;
-  background-position: 0px -400px;
-  background-image: url(../../../public/assets/img/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg);
+  //background-position: 0px -400px;
+  background-image: url(../../../public/assets/images/abstract-2497959_1920.jpg);
+}
+
+.project-cover-image{
+  aspect-ratio: 16 / 9;
+  margin-bottom: 25px;
+}
+
+.link{
+  color: whitesmoke;
+}
+
+.link:hover{
+  color: crimson;
+  transition: 300ms;
 }
