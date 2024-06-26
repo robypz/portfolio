@@ -9,3 +9,12 @@ body {
   font-family: inconsolata;
   -webkit-font-smoothing: antialiased;
 }
+
+.link{
+  color: whitesmoke;
+}
+
+.link:hover{
+  color: crimson;
+  transition: 300ms;
+}
