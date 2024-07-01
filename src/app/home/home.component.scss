@@ -10,4 +10,12 @@
   margin-bottom: 25px;
 }
 
+.project-box{
+  border: 3px solid transparent;
+  padding: 3px;
 
+}
+
+.project-box:hover{
+  border: 3px solid crimson;
+}
